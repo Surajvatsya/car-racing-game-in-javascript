@@ -125,6 +125,7 @@
 
         let car = document.createElement("div"); 
         car.setAttribute("class", "car"); 
+        gameArea.appendChild(car);
 
         
         player.x = car.offsetLeft; 
