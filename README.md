@@ -1,5 +1,5 @@
 
-#                          ⭐⭐ Full Stack Custom to-do-list   ⭐⭐
+#                          ⭐⭐ Car Racing Game   ⭐⭐
 
 https://car-racing-app-surajvatsya.herokuapp.com/
 
@@ -24,7 +24,7 @@ Stop the game at the time of collision.
 We were successfully able to implement all the features that we have thought of .
 
 
-## What's next for Full Stack Custom to-do-list 
+## What's next for Car racing Game
 Multiplayer Game.
 
 
