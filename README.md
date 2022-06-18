@@ -24,13 +24,14 @@ Stop the game at the time of collision.
 We were successfully able to implement all the features that we have thought of .
 
 
-## What's next for Car racing Game
+## What's next for Car racing Game!
 Multiplayer Game.
 
 
 
 ## Page load time  - 0.67 sec
-<img width="298" alt="image" src="https://user-images.githubusercontent.com/68156079/174448210-72f66895-2049-49e3-9a73-2eec54222c98.png">
-![image](https://user-images.githubusercontent.com/68156079/174448236-a592f15e-1a25-475e-9dda-8ff38bb018c3.png)
-![image](https://user-images.githubusercontent.com/68156079/174449657-993b23df-dead-4061-9551-d4b1698715aa.png)
-![image](https://user-images.githubusercontent.com/68156079/174449664-0f819df3-7ece-4dd7-bc5c-0105ef166e38.png)
+<img width="298" alt="image" src="https://user-images.githubusercontent.com/68156079/174448210-72f66895-2049-49e3-9a73-2eec54222c98.png"><br>
+
+![Screenshot (179)](https://user-images.githubusercontent.com/68156079/174450044-98f281bf-3fb8-4db7-a5a3-c7b05f529f1d.png)
+![Screenshot (180)](https://user-images.githubusercontent.com/68156079/174450048-1ace22dd-d4f7-4872-8bf6-42eed9eda2e1.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/68156079/174450051-adacab0d-99dc-410c-a1bd-8ed33937df19.png)
